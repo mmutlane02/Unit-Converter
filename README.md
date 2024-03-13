@@ -1,2 +1,6 @@
 # Unit-Converter
-A standard unit converter
+
+This is my first of many projects...
+This project is a standard SI UNIT CONVERTER. Done solely on PYTHON using the GUI library (TKinter)
+It converts different units such as AREA, DISTANCE, TIME, etc...
+Each convertion unit is done on its separate Toplevel window for easy readability
